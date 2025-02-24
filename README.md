@@ -10,6 +10,5 @@
  <h3 align="center"> You can also find/contact me here:
   <a href = "mailto:aewoessn@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" width=48 heigh=48 align="center"> </a>
   <a href="https://scholar.google.com/citations?user=oLMzqPsAAAAJ&hl=en&authuser=2"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width=48 height=48 align="center"> </a> &nbsp;
-  <a href="https://twitter.com/AlanWoess"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width=48 height=48 align="center"> </a> &nbsp;
   <a href="https://www.linkedin.com/in/alan-woessner/"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width=48 height=48 align="center"> </a>
 </h3>
